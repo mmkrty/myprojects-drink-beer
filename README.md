@@ -1,6 +1,6 @@
 ## Why I built this App?
 
-When I moved to Germany in 2018, I began to see the charm of beer to the locals. I am still amazed by the smart-looking student who finished three 500ml beers silently in front of me during a language exchange few years ago. Although I still didn't learn to appreciate the taste of beer in the end, drinking beer is obviously an integral part of life here.
+When I moved to Germany in 2018, I began to see the charm of beer to the locals. I am still amazed by the gentle-looking student who finished three bottles(500ml) of beers silently in front of me during a language exchange. Although I still didn't learn to appreciate the taste of beer in the end, drinking beer is obviously an integral part of life here.
 
 A moderate amount of beer is not only relaxing and enjoyable, it can also be good for your health, but drinking too much is a different story. This app aims to remind people in a light-hearted and humorous way that while they drink, they should not forget that over drinking is bad for their health.
 
